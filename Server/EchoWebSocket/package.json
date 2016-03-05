@@ -1,0 +1,18 @@
+{
+  "name": "sample_echo_websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "http": "0.0.0",
+    "wamp.io": "0.0.4",
+    "websocket.io": "^0.2.1",
+    "ws": "^0.8.1"
+  }
+}
